@@ -1,1 +1,1 @@
-# QT-Barcode
+# QR&Barcode

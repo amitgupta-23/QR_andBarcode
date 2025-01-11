@@ -1,1 +1,1 @@
-# QR&Barcode
+# QRandBarcode

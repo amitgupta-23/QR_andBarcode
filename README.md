@@ -1,2 +1,2 @@
 # QRandBarcode
-QR and Barcode Generator and Scanner
+# QR and Barcode Generator and Scanner
